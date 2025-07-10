@@ -5,6 +5,7 @@ body {
     }
 
     .header {
+      background-image: url('https://raw.githubusercontent.com/JNKPM/SistemTempahanKenderaanJNKPM/main/img/header.png');
       background: url('../img/header.png');
       background-size: cover;
       background-position: center;
