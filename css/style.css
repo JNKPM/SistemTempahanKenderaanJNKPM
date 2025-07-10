@@ -4,7 +4,7 @@ body {
       background-color: #f8f8f8;
     }
 
-    .header {
+    .header.gambaratas {
       background-image: url('https://raw.githubusercontent.com/JNKPM/SistemTempahanKenderaanJNKPM/main/img/header.png');
       background: url('../img/header.png');
       background-size: cover;
@@ -13,3 +13,7 @@ body {
       padding: 60px 20px;
       text-align: right;
     }
+
+      .header.gambaratas h1 {
+            color: #7393B3;
+      }
