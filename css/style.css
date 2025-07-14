@@ -1,20 +1,18 @@
 body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f8f8f8;
-    }
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f8f8;
+}
 
-    .header.gambaratas {
-      background-image: url("https://raw.githubusercontent.com/JNKPM/SistemTempahanKenderaanJNKPM/refs/heads/main/img/header.png");
-          
-      
-      background-size: cover;
-      background-position: center;
-      color: white;
-      padding: 60px 20px;
-      text-align: right;
-    }
+.gambaratas {
+  background-image: url("https://raw.githubusercontent.com/JNKPM/SistemTempahanKenderaanJNKPM/main/img/header.png");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 60px 20px;
+  text-align: right;
+}
 
-      .header .gambaratas h1 {
-            color: #7B68EE;
-      }
+.gambaratas h1 {
+  color: #7B68EE;
+}
